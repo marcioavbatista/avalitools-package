@@ -1,0 +1,13 @@
+Package: avalitools
+Title: Avaliation Tools
+Description: Tools for linear regression avaliations
+Version: 1.1.2
+Encoding: UTF-8
+Authors@R: person("Márcio", "Batista", email = "marcioavbatista@gmail.com", role = c("aut","cre","cph"))
+License: MIT + file LICENSE
+Suggests: 
+    testthat (>= 3.0.0),
+    dplyr (>= 1.1.4),
+    readxl (>= 1.4.3),
+    scales (>= 1.3.0)
+Config/testthat/edition: 3
